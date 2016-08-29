@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "EA47938E656A02767AA53983C78DCBE29B84BD29",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "EA47938E656A02767AA53983C78DCBE29B84BD29" : 0,
+    "E354C4CF937760D80A572328DC42BF6454939182" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "4E62D0EB-2232-4685-9089-9872C609C632",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "EA47938E656A02767AA53983C78DCBE29B84BD29" : "Download%20Image\/",
+    "E354C4CF937760D80A572328DC42BF6454939182" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Download Image",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Download Image.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/git.heroku.com\/collaborateguesthouse.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E354C4CF937760D80A572328DC42BF6454939182"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/SandyDhar\/Download-Image.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "EA47938E656A02767AA53983C78DCBE29B84BD29"
+    }
+  ]
+}
